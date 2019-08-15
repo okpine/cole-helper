@@ -1,5 +1,5 @@
 # Cole-Helper
-Cole助手，这是Chrome浏览器的一个扩展。
+Cole助手，辅助自动填写表单。这是Chrome浏览器的一个扩展。
 
 
 ## 使用方法
